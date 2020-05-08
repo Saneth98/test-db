@@ -1,0 +1,23 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "ImgUrl": "http://localhost/PhoneImages/iphone7.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "ImgUrl": "http://localhost/PhoneImages/samsungS8.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "ImgUrl": "http://localhost/PhoneImages/sonyZ2.jpg",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  }
+]
